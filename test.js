@@ -1,5 +1,3 @@
-const handleCheck = (str) => {
-    return `Hello ${str}`;
-}
+const handleCheck = (str) => `Hello ${str}`;
 
-module.exports = handleCheck
+module.exports = handleCheck;
