@@ -1,5 +1,3 @@
-const handleCheck = (str) => {
-    return `Hello ${str}`;
-}
+const check = require('./test')
 
-console.log(handleCheck('Naveen'))
+console.log(check('Naveen'))
