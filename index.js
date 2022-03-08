@@ -1,3 +1,3 @@
-const check = require('./test');
+const check = require('./attack');
 
 console.log(check('Naveen'));
