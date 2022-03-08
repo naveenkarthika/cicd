@@ -1,3 +1,3 @@
-const check = require('./test')
+const check = require('./test');
 
-console.log(check('Naveen'))
+console.log(check('Naveen'));
